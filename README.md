@@ -61,11 +61,14 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
+
 **F.	Observation: ( Include your own Table relevant to the Experiment)**
 
 **Isolation measurement** (Tabulation)
+<img width="1076" height="204" alt="image" src="https://github.com/user-attachments/assets/5f0270ff-f5cb-4558-8c80-178d597a8fe4" />
 
 **Measurement of power division** (Tabulation)
+<img width="1080" height="224" alt="image" src="https://github.com/user-attachments/assets/a807a31b-2147-45ff-adbb-3124cc882b4d" />
 
 
 **G.	Analysis of Results: (Write your own)**
@@ -80,6 +83,16 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 **Precautions:**
 
 •	Check the connections before switching on the kit.
+•	Connections should be done properly.
+•	Observation should be taken properly.
+
+**Result:**
+ Isolation between E and H arms ≈ 19 dB,
+
+power division in the collinear arms ≈ 3 dB (equal split).
+
+Thus, the experiment executed successfully.
+
 •	Connections should be done properly.
 •	Observation should be taken properly.
 
